@@ -1,0 +1,4 @@
+
+python:S117;"^Rename this local variable "finalFileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃÆôÒÿÿÿÿÿ8İ³’0
+wpython:S117("YRename this local variable "imgsPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Â’ô8ß³’0
+@python:S108C")Either remove or fill this block of code.(ã‘Û¾
